@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295.32 127.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        font-family: FranklinGothic-Medium, 'Franklin Gothic Medium';
+        font-size: 72px;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        fill: #4582c3;
+        stroke: url(#linear-gradient);
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="63.53" x2="127.07" y2="63.53" gradientTransform="translate(63.53 -26.32) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#231f20"/>
+    </linearGradient>
+  </defs>
+  <text class="cls-1" transform="translate(124.04 99.04)"><tspan x="0" y="0">dar</tspan><tspan class="cls-2" x="101.57" y="0">b</tspan><tspan x="139.46" y="0">y</tspan></text>
+  <ellipse class="cls-3" cx="63.53" cy="63.53" rx="74.47" ry="48.98" transform="translate(-26.32 63.53) rotate(-45)"/>
+</svg>
