@@ -23,8 +23,22 @@ button {
     padding: 10px;
     box-shadow: 0px 0px 20px white;
     
+    
+}
+
+header {
+    background-color: rgb(180, 117, 0);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 40px rgb(180, 117, 0)
 }
 #main {
     color: rgb(251, 255, 0);
     text-shadow: 0px 0px 20px
+}
+nav {
+    padding: 20px;
+    background-color: maroon;
+    border-radius: 10px;
+    box-shadow: 0px 0px 40px maroon
 }
