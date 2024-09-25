@@ -46,5 +46,9 @@ nav {
 .img-btn img {
     width: 20px;
     height: auto;
-    filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.5))
+    filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.5));
+}
+
+.pspecial {
+    filter: drop-shadow(5px 5px 2px rgba(0,0,0,1));
 }
